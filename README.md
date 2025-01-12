@@ -24,5 +24,5 @@ actually I love to create telegram bots and interactive games for kids
 
 # Bests of my projects
 * [skateshop with javafx and postgresql](https://github.com/vasilisqq/javafx_skateshop)
-
+* [fastapi to-do-list with authorization and db connection](https://github.com/vasilisqq/python-fastapi-to-do-list-with-authorization)
 # My contacts
