@@ -6,7 +6,7 @@
 # __Something about me__ :snake:
 * ### Back-end developer
 * ### gamedev developer
-* ### creator of some interactive constructions
+* ### creator of some interactive installations
 actually I love to create telegram bots and interactive games for kids
 
 # My stack
@@ -25,4 +25,6 @@ actually I love to create telegram bots and interactive games for kids
 # Bests of my projects
 * [skateshop with javafx and postgresql](https://github.com/vasilisqq/javafx_skateshop)
 * [fastapi to-do-list with authorization and db connection](https://github.com/vasilisqq/python-fastapi-to-do-list-with-authorization)
+* [web_socket unity](https://github.com/vasilisqq/transpose_data_drom_desktop_unity_app_to_mobile.git)
 # My contacts
+* [telegram]()
